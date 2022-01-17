@@ -1,0 +1,534 @@
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\BLL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\DAL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\BLL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\DAL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\SignUp.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\GuestPages\DeleteMyPost.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\GuestPages\Index.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllPosts.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllUsers.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\Index.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\MakePost.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchPost.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\DeletePostscshtml.cshtml.g.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\DeleteUsers.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.json
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\BLL.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\DAL.dll
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\BLL.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\bin\Debug\net5.0\DAL.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\GuestPages\Index.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\SignUp.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllPosts.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllUsers.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\Index.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\MakePost.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchPost.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+D:\VStudio_Projects\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchByHeader.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\BLL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\DAL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\BLL.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\bin\Debug\net5.0\DAL.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\GuestPages\Index.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllPosts.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllUsers.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\Index.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\MakePost.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchByHeader.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchPost.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\BLL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\DAL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\BLL.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\bin\Debug\net5.0\DAL.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\GuestPages\Index.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllPosts.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\AllUsers.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\ManagerPages\Index.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\MakePost.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchByHeader.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Post\SearchPost.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache

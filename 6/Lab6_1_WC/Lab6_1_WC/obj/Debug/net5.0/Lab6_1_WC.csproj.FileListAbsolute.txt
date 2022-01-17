@@ -1,0 +1,46 @@
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\appsettings.Development.json
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\appsettings.json
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.exe
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.deps.json
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.runtimeconfig.json
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.runtimeconfig.dev.json
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.dll
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\ref\Lab6_1_WC.dll
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.pdb
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.csproj.AssemblyReference.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.AssemblyInfoInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.AssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.csproj.CoreCompileInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.MvcApplicationPartsAssemblyInfo.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\staticwebassets\Lab6_1_WC.StaticWebAssets.Manifest.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\staticwebassets\Lab6_1_WC.StaticWebAssets.xml
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\scopedcss\bundle\Lab6_1_WC.styles.css
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.RazorTargetAssemblyInfo.cache
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.dll
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\ref\Lab6_1_WC.dll
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.pdb
+D:\Звіти 3 курс\1 сем\ООП\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.genruntimeconfig.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\appsettings.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.StaticWebAssets.xml
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.exe
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.deps.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.runtimeconfig.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.runtimeconfig.dev.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\ref\Lab6_1_WC.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\bin\Debug\net5.0\Lab6_1_WC.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.csproj.AssemblyReference.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.AssemblyInfoInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.AssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.csproj.CoreCompileInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\scopedcss\bundle\Lab6_1_WC.styles.css
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\staticwebassets\Lab6_1_WC.StaticWebAssets.Manifest.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.RazorTargetAssemblyInfo.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\ref\Lab6_1_WC.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\6\Lab6_1_WC\Lab6_1_WC\obj\Debug\net5.0\Lab6_1_WC.genruntimeconfig.cache

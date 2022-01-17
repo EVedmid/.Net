@@ -1,0 +1,72 @@
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Npgsql.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\DAL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\bin\Debug\net5.0\DAL.pdb
+C:\Users\moyfo\Desktop\NetLabs\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.exe
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\ConsoleApp.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Npgsql.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\DAL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\DAL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\Console\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\Console\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\Console\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\Console\obj\Debug\net5.0\ConsoleApp.pdb

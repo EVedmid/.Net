@@ -1,0 +1,75 @@
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\moyfo\Desktop\NetLabs\Lab3\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\BLL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\DAL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Звіти 3 курс\1 сем\ООП\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\BLL.dll
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\BLL.pdb
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\DAL.dll
+D:\VStudio_Projects\Lab3\BLL\bin\Debug\net5.0\DAL.pdb
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.dll
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\VStudio_Projects\Lab3\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Flink\OneDrive\Робочий стіл\Lab3\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\Lab3\BLL\obj\Debug\net5.0\BLL.pdb

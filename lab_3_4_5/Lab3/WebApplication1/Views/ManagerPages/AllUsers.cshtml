@@ -1,0 +1,35 @@
+﻿@model IEnumerable<WebApplication1.Models.GuestVM>
+
+@{
+    ViewBag.Title = "All users List";
+}
+
+<h2>Manager Cab</h2>
+
+<h2>User List</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Login)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PasswordHash)
+        </th>
+    </tr>
+
+    @foreach (var user in Model)
+    {
+<tr>
+    <th>
+        @Html.DisplayFor(useritem => user.Login)
+    </th>
+    <th>
+        @Html.DisplayFor(useritem => user.PasswordHash)
+    </th>
+
+     <td>
+        @Html.ActionLink("Delete this user", "DeleteUsers",new {login = user.Login })
+     </td>
+</tr>
+    }
+</table>

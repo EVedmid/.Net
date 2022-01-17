@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2EGsljy+Sucy9nyxIBPvKcTenc1gZQjSvPEOca5RbcAlmZXdPDZLnXEInrEijPiZwTNh07ZGO9kJCHKewKX3w==",
+  "success": true,
+  "projectFilePath": "D:\\Звіти 3 курс\\1 сем\\ООП\\2\\LabWork2\\LabWork2.Tests\\LabWork2.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flink\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flink\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Flink\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Flink\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<WebApplication1.Models.PostVM>
+
+@{
+    ViewBag.Title = "All posts List";
+}
+
+<h2>Guest Cab</h2>
+
+<h2>Post List</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.guestLogin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewsHeader)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewsBody)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rubric)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Topic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tags)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateTime)
+        </th>
+    </tr>
+
+    @foreach (var post in Model)
+    {
+        <tr>
+            <th>
+                @Html.DisplayFor(postItem => post.Id)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.guestLogin)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.NewsHeader)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.NewsBody)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.Rubric)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.Topic)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.Tags)
+            </th>
+            <th>
+                @Html.DisplayFor(postItem => post.DateTime)
+            </th>
+        </tr>
+    }
+        <tr>
+            <td>
+                @Html.ActionLink("Make new post", "MakePost")
+            </td>
+            <td>
+                @Html.ActionLink("Back to main", "BackToMain")
+            </td>
+        </tr>
+    </table>

@@ -1,0 +1,20 @@
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.deps.json
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.dll
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.pdb
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.AssemblyInfoInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.AssemblyInfo.cs
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.csproj.CoreCompileInputs.cache
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.dll
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.pdb
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Звіти 3 курс\1 сем\ООП\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.csproj.AssemblyReference.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.deps.json
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\bin\Debug\netcoreapp3.1\ClassLibrary_LabWork2.pdb
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.csproj.AssemblyReference.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.AssemblyInfoInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.AssemblyInfo.cs
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.csproj.CoreCompileInputs.cache
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.dll
+C:\Users\zheni\OneDrive\Рабочий стол\study\2\LabWork2\ClassLibrary_LabWork2\obj\Debug\netcoreapp3.1\ClassLibrary_LabWork2.pdb
